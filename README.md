@@ -12,7 +12,7 @@ Here's a simple example of a Pinto expression broken down into numbered steps:
 
 ![Alt text](https://pinto.tech/files/diag.png "2 3 +")
 
-A more advanced example computes a moving average for a stock prcie:
+A more advanced example computes a moving average for a stock price:
 
 ![Alt text](https://pinto.tech/files/diag2.png "CMG 200 r_mean")
 
